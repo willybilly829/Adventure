@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Enter player name:");
+﻿Console.WriteLine("Welcome player. Enter Name:");
